@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<biblioteca>
+  <libro isbn="978-84-09349-7">
+    <titulo>Los renglones torcidos de Dios</titulo>
+    <autores>
+      <autor sexo="masculino">Torcuato Luca de Tena</autor>
+    </autores>
+    <genero>novela</genero>
+    <precio moneda="euro">9.80</precio>
+  </libro>
+  <libro isbn="53279">
+    <titulo>Como estamos</titulo>
+    <autores>
+      <autor sexo="masculino">Juan y medio</autor>
+      <autor sexo="femenino">Maria Lopez</autor>
+    </autores>
+    <genero>aventura</genero>
+    <precio moneda="euro">9.88</precio>
+  </libro>
+  <libro isbn="12345">
+    <titulo>El misterio del bosque</titulo>
+    <autores>
+      <autor sexo="femenino">Ana Garcia</autor>
+      <autor sexo="masculino">Pedro Sanchez</autor>
+      <autor sexo="masculino">Luis Martin</autor>
+    </autores>
+    <genero>misterio</genero>
+    <precio moneda="dolar">15.50</precio>
+  </libro>
+  <libro isbn="67890">
+    <titulo>Viaje al espacio</titulo>
+    <autores>
+      <autor sexo="masculino">Carlos Ruiz</autor>
+      <autor sexo="femenino">Laura Perez</autor>
+    </autores>
+    <genero>ciencia ficcion</genero>
+    <precio moneda="euro">12.99</precio>
+  </libro>
+</biblioteca>
